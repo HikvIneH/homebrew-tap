@@ -1,6 +1,6 @@
 cask "odek" do
-  version "0.4.0"
-  sha256 "e14cd077b748e3b11b83033ee9c567e90bd4ddf034063f70df365db19d38caba"
+  version "0.4.1"
+  sha256 "e41e8d78b0859c6a54dc906b252f75ba6051cda43dbb27be92efcfb1878bfe11"
 
   url "https://github.com/HikvIneH/odek/releases/download/v#{version}/Odek-#{version}.zip"
   name "odek"
